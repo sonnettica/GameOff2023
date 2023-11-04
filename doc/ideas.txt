@@ -1,0 +1,26 @@
+﻿THEME: *SCALE*
+
+Scale...
+
+Keep in mind the timeframe: one *month*
+
+Ideas given by the hosts:
+    "An infinite runner with occasional buildings that you need to scale."
+    "A tower defense game where enemies scale in frequency and power."
+    "A sokoban-style game with tiles being scales and boxes have different weights."
+    "A traditional game, for example,  Space Invaders that scales to local multiplayer or maybe even tens, hundreds, or thousands of players online."
+    "A game where you have match a musical scale with your voice."
+    "A roguelike where you control a penguin search for fish at the Southern California Linux Expo (SCALE)."
+    "A Kaiju beat-em up featuring Servants of Creatures Arriving Late to Earth (SCALE)"
+    "A Factorio-type game where you aim for Supply Chain and Logistics Excellence (SCALE)"
+    "Any kind of game featuring em… Sea… Creatures… And… L. L? Laughing… Erm… Elephants?"
+
+SCALE...
+An acronym?
+A party-hosting-style game where the number of people begins to rapidly *scale*?
+    - What systems would be needed?
+        - System for managing number of people, system for getting people to come to the party
+    - Is it too complicated?
+        - Maybe, just depends on how much I can work and not let the scope creep take over.
+    - Would it be *interesting and enjoyable*?
+        - This is the part that's like french toast: very easy to fuck up

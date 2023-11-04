@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/zachary/source/repos/Fiera/GameOff/Content/../../assets/font/debug_0.png","C:/Users/zachary/source/repos/Fiera/GameOff/Content/bin/DesktopGL/Content/debug_0.xnb","TextureProcessor","Texture2DContent",12846,262229,0.0965599
+"C:/Users/zachary/source/repos/Fiera/GameOff/Content/../../assets/font/debug.fnt","C:/Users/zachary/source/repos/Fiera/GameOff/Content/bin/DesktopGL/Content/debug.xnb","BitmapFontProcessor","BitmapFontProcessorResult",11597,3527,0.0223469
+"C:/Users/zachary/source/repos/Fiera/GameOff/Content/../../assets/font/debug2_0.png","C:/Users/zachary/source/repos/Fiera/GameOff/Content/bin/DesktopGL/Content/debug2_0.xnb","TextureProcessor","Texture2DContent",12733,262229,0.0071423
+"C:/Users/zachary/source/repos/Fiera/GameOff/Content/../../assets/font/debug2.fnt","C:/Users/zachary/source/repos/Fiera/GameOff/Content/bin/DesktopGL/Content/debug2.xnb","BitmapFontProcessor","BitmapFontProcessorResult",11544,3528,0.0016065
+"C:/Users/zachary/source/repos/Fiera/GameOff/Content/../../assets/font/Hack_0.png","C:/Users/zachary/source/repos/Fiera/GameOff/Content/bin/DesktopGL/Content/Hack_0.xnb","TextureProcessor","Texture2DContent",19422,262229,0.0061844
+"C:/Users/zachary/source/repos/Fiera/GameOff/Content/../../assets/font/Hack.fnt","C:/Users/zachary/source/repos/Fiera/GameOff/Content/bin/DesktopGL/Content/Hack.xnb","BitmapFontProcessor","BitmapFontProcessorResult",11545,3526,0.0015017
